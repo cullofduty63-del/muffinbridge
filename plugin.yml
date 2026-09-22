@@ -1,0 +1,9 @@
+name: MuffinBridge
+version: 1.0.0
+main: ir.muffinsmp.bridge.MuffinBridge
+api-version: '1.21'
+
+author: MuffinSMP
+description: MuffinSMP website purchase delivery bridge
+
+website: https://muffinsmp.ir
