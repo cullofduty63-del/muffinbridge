@@ -1,0 +1,14 @@
+# ==========================================
+# MuffinSMP - MuffinBridge
+# ==========================================
+
+# Cloudflare Worker API
+api-url: "https://api.muffinsmp.ir"
+
+# IMPORTANT:
+# This MUST be the same secret configured
+# inside your Cloudflare Worker.
+secret: "Sn7a8t5m45678"
+
+# Check for new purchases every X seconds
+poll-seconds: 5
